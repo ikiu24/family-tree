@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Map</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Image Map -->
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-ELQ1hLflx51SLHSr79RkePaXBHTorvUhcR1Tj7szuwe-d_f8lK4EWE2Itz-hcwScDKC_WzOZS9vygJkx6XV57-43zL1_oBR_bCSSnKQ1oOqUGoQGAdIWYtlsgzhezvgL7rxbD1CT7FRWgk19fDhFq655s665HX6LNe4KYJhNexk0RHjUzCyfd1TV2UhG/s2160/Logopit_1740291359067.jpg" usemap="#image-map">
+
+    <map name="image-map">
+        <area target="_blank" alt="Reski" title="Reski" href="https://www.facebook.com/dua24empat" coords="985,869,83" shape="circle">
+        <area target="_blank" alt="Andi" title="Andi" href="https://www.facebook.com/profile.php?id=61551788018937" coords="1309,1009,87" shape="circle">
+        <area target="_blank" alt="Peri" title="Peri" href="https://www.facebook.com/profile.php?id=100069878100125" coords="907,1207,86" shape="circle">
+        <area target="_blank" alt="Arif" title="Arif" href="https://www.facebook.com/profile.php?id=100053441333459" coords="866,1021,88" shape="circle">
+        <area target="_blank" alt="Rani" title="Rani" href="https://www.facebook.com/ranioktavia.rivansa" coords="1093,744,1093,524,1235,536,1183,757" shape="poly">
+        <area target="_blank" alt="Resta" title="Resta" href="https://www.facebook.com/resta.aulia.904" coords="1279,795,1198,756,1258,550,1391,605" shape="poly">
+        <area target="_blank" alt="Fira" title="Fira" href="https://www.facebook.com/profile.php?id=61558009344588" coords="538,1157,735,1109,733,988,534,962,542,1060" shape="poly">
+        <area target="_blank" alt="Danis" title="Danis" href="https://wa.me/6288271207337" coords="1291,810,1419,626,1503,711,1346,842" shape="poly">
+        <area target="_blank" alt="Rahman" title="Rahman" href="https://wa.me/6288271207337" coords="1356,855,1529,734,1591,833,1388,942" shape="poly">
+        <area target="_blank" alt="Rohim" title="Rohim" href="https://wa.me/6288271207337" coords="1415,963,1602,871,1638,1012,1427,1040" shape="poly">
+        <area target="_blank" alt="https://wa.me/6288271207337" title="https://wa.me/6288271207337" href="https://wa.me/6288271207337" coords="1415,1060,1649,1044,1632,1175,1427,1127" shape="poly">
+        <area target="_blank" alt="Ragil" title="Ragil" href="https://wa.me/6288271207337" coords="1418,1168,1635,1212,1535,1392,1374,1271" shape="poly">
+        <area target="_blank" alt="Ipel" title="Ipel" href="https://wa.me/6288271207337" coords="1273,1204,79" shape="circle">
+        <area target="_blank" alt="Siyos" title="Siyos" href="https://wa.me/6288271207337" coords="1177,867,80" shape="circle">
+        <area target="_blank" alt="Jusma" title="Jusma" href="https://wa.me/6288271207337" coords="1087,1070,110" shape="circle">
+        <area target="_blank" alt="Ipon" title="Ipon" href="https://wa.me/6288271207337" coords="1094,1290,88" shape="circle">
+    </map>
+
+</body>
+</html>
